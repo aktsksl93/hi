@@ -5,7 +5,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 
 public class Cc {
-
+	//커밋테스트
 	public static Connection con;
 
 	public static Connection get() {
